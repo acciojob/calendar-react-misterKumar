@@ -78,11 +78,11 @@ export default function App() {
             return(
               <option id = {data} key={data}>
                   {data}
-              </option>
+              </option >
             )
           })
         }
-      </select>
+      </select >
       {
         showYearInput ?
         <span id = "year" onDoubleClick={(e)=>{setShowYearInput(false)}}>  
