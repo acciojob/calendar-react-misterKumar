@@ -1,4 +1,4 @@
-h1 {
+/*h1 {
     color: #27aedb;
     text-align: center;
     }
@@ -9,4 +9,20 @@ button{
     text-align: center;
     justify-content: center;
     align-items: center;
+}*/
+h1 {
+    color: #27aedb;
+    text-align: center;
+}
+
+
+button {
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+table td {
+    padding: 5px;
 }
